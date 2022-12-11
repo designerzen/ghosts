@@ -1,0 +1,2 @@
+# ghosts
+pacman ghosts + puckjs
